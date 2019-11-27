@@ -1,0 +1,3 @@
+/Users/tristan.nibbe114/Desktop/CI_LISP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/tristan.nibbe114/Desktop/CI_LISP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tristan.nibbe114/Desktop/CI_LISP/cmake-build-debug/CMakeFiles/cilisp.dir
